@@ -1,4 +1,4 @@
-# 🚀 PROTRACT — AI Financial Fraud Detection System  
+# 🚀 FraudShield — AI Financial Fraud Detection System  
 🏆 *Winner — HackNUthon 6.0 (1st Place)*  
 
 ---
@@ -23,7 +23,7 @@ Financial fraud is evolving rapidly, making it harder for traditional systems to
 
 ---
 
-## 🔍 Solution — PROTRACT  
+## 🔍 Solution — FraudShield  
 
 An **AI-powered real-time fraud detection system** with built-in compliance verification.
 
@@ -145,4 +145,4 @@ Huge thanks to:
 ## ⭐ Final Note  
 
 Winning this hackathon was an incredible journey.  
-This project is just the beginning — we aim to take **PROTRACT** to real-world deployment 🚀  
+This project is just the beginning — we aim to take **FraudShield** to real-world deployment 🚀  
